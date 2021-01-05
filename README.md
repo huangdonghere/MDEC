@@ -4,7 +4,7 @@ This repository provides the Matlab source code for three ensemble clustering al
 
 ```
 Dong Huang, Chang-Dong Wang, Jian-Sheng Wu, Jianhuang Lai, and Chee-Keong Kwoh.
-Toward Multi-Diversified Ensemble Clustering of High-Dimensional Data: From Subspaces to Metrics and Beyond, 
+Toward Multi-Diversified Ensemble Clustering of High-Dimensional Data: From Subspaces to Metrics and Beyond.
 IEEE Transactions on Cybernetics, accepted, 2021.
 DOI: https://doi.org/10.1109/TCYB.2021.3049633
 ```
