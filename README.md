@@ -1,4 +1,4 @@
-# Multi-Diversified Ensemble Clustering of High-Dimensional Data
+# Multi-Diversified Ensemble Clustering
 
 This repository provides the Matlab source code for the three ensemble clustering algorithms, namely, MDEC-HC, MDEC-SC, and MDEC-BG.
 
