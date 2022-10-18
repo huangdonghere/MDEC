@@ -5,7 +5,7 @@
 % D. Huang, C.-D. Wang, J.-H. Lai, and C.-K. Kwoh.                  %
 % "Toward Multi-Diversified Ensemble Clustering of High-Dimensional %
 % Data: From Subspaces to Metrics and Beyond".                      %
-% IEEE Transactions on Cybernetics, accepted, 2021.                 %
+% IEEE Transactions on Cybernetics, 2022, 52(11), pp.12231-12244.   %
 % DOI: https://doi.org/10.1109/TCYB.2021.3049633                    %
 %                                                                   %
 % The code has been tested in Matlab R2016a and Matlab R2016b.      %
