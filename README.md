@@ -7,7 +7,7 @@ If you find the code helpful for your research, please cite the paper below.
 ```
 Dong Huang, Chang-Dong Wang, Jian-Huang Lai, and Chee-Keong Kwoh.
 Toward Multidiversified Ensemble Clustering of High-Dimensional Data: From Subspaces to Metrics and Beyond.
-IEEE Transactions on Cybernetics, in press, 2021.
+IEEE Transactions on Cybernetics, 2022, 52(11), pp.12231-12244.
 DOI: https://doi.org/10.1109/TCYB.2021.3049633
 ```
 
