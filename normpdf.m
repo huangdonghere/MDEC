@@ -10,7 +10,7 @@ function y = normpdf(x,mu,sigma)
 %
 %   See also NORMCDF, NORMFIT, NORMINV, NORMLIKE, NORMRND, NORMSTAT.
 
-%   References:
+%   References: 
 %      [1] Evans, M., Hastings, N., and Peacock, B. (1993) Statistical
 %          Distributions, 2nd ed., Wiley, 170pp.
 
