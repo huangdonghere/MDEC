@@ -41,6 +41,7 @@ eigenvalue = eigenvalue(:,b);
 U = U(:,b);
 eigengap = abs(diff(diag(eigenvalue)));
 U = U(:,1:k);
+U = real(U);
 % in case of the Jordan-Weiss algorithm, we need to normalize
 % the eigenvectors row-wise
 % U = bsxfun(@rdivide, U, sqrt(sum(U.^2, 2)));
